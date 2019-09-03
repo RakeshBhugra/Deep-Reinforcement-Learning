@@ -11,7 +11,7 @@
 - Leverage neural networks when solving problems using the **Deep Q-Networks (DQN) algorithm.**
 - **Double Q-learning, prioritized experience replay** and **dueling networks.**
 
-**Level 3:** Policy-Based Methods
+**Level 3** : Policy-Based Methods
 
 - Policy-based and actor-critic methods
   - **Proximal Policy Optimization (PPO)**
@@ -19,9 +19,9 @@
   - **Deep Deterministic Policy Gradients (DDPG)**
 - Optimization techniques such as **evolution strategies** and **hill climbing.**
 
-**Level**** 4:** Multi-Agent Reinforcement Learning
+**Level 4** : Multi-Agent Reinforcement Learning
 
-- **Monte Carlo Tree Search (MCTS)**……..(behind DeepMind&#39;s AlphaZero)
+- **Monte Carlo Tree Search (MCTS)**â€¦â€¦..(behind DeepMind&#39;s AlphaZero)
 
 
 
