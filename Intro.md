@@ -34,3 +34,6 @@ Unity Machine Learning:
 Nice Book:
 
 - https://drive.google.com/open?id=1SSL\_cHIZXSpzP5F16D43kz4yic1eyjuG
+
+Python implementations of most of the figures in the book:
+- https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
